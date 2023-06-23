@@ -37,4 +37,4 @@ O principal objetivo do nosso projeto é realizar cálculos relacionados a físi
 ## 🤝Estou trabalhando com :
 * [Sure Rocha Bezerra ](https://github.com/surerocha)
 * [Isabelly Barbosa Cordeiro ](https://github.com/isabellybarbosac) 
-* [Thayná Nascimento Albano da Silva](https://github.com/thaynaxt)
+* [Sophia Araujo Ferreira Moura](https://github.com/sophimoura)
